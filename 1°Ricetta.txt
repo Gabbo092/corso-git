@@ -2,4 +2,4 @@ Spagnetti al pomodo:
 spaghetti
 pomodoro
 basilico
-sale 
+sale 7
